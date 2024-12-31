@@ -12,4 +12,5 @@
 *.tlog
 *.ilk
 *.tlb
+*.vscode/
 _ipch/
