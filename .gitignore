@@ -1,0 +1,15 @@
+*.userprefs
+*.suo
+*.ncb
+*.vs
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.idb
+*.log
+*.tlog
+*.ilk
+*.tlb
+_ipch/
